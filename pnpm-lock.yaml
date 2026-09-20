@@ -171,6 +171,9 @@ importers:
 
   artifacts/api-server:
     dependencies:
+      '@types/node':
+        specifier: 'catalog:'
+        version: 25.9.6
       '@workspace/api-zod':
         specifier: workspace:*
         version: link:../../lib/api-zod
@@ -195,6 +198,9 @@ importers:
       pino-http:
         specifier: ^10.5.0
         version: 10.5.0
+      zod:
+        specifier: 'catalog:'
+        version: 3.25.76
     devDependencies:
       '@types/cookie-parser':
         specifier: ^1.4.10
@@ -205,9 +211,6 @@ importers:
       '@types/express':
         specifier: ^5.0.6
         version: 5.0.6
-      '@types/node':
-        specifier: 'catalog:'
-        version: 25.9.6
       esbuild:
         specifier: 0.28.2
         version: 0.28.2
@@ -222,6 +225,10 @@ importers:
         version: 3.1.0
 
   artifacts/mockup-sandbox:
+    dependencies:
+      '@types/node':
+        specifier: 'catalog:'
+        version: 25.9.6
     devDependencies:
       '@hookform/resolvers':
         specifier: ^3.10.0
@@ -316,9 +323,6 @@ importers:
       '@tailwindcss/vite':
         specifier: 'catalog:'
         version: 4.3.3(vite@7.3.6(@types/node@25.9.6)(jiti@2.7.0)(lightningcss@1.32.0)(tsx@4.23.13)(yaml@2.9.0))
-      '@types/node':
-        specifier: 'catalog:'
-        version: 25.9.6
       '@types/react':
         specifier: 'catalog:'
         version: 19.3.0
@@ -405,6 +409,10 @@ importers:
         version: 3.25.76
 
   artifacts/runcycle-site:
+    dependencies:
+      '@types/node':
+        specifier: 'catalog:'
+        version: 25.9.6
     devDependencies:
       '@hookform/resolvers':
         specifier: ^3.10.0
@@ -508,9 +516,6 @@ importers:
       '@tanstack/react-query':
         specifier: 'catalog:'
         version: 5.102.8(react@19.1.0)
-      '@types/node':
-        specifier: 'catalog:'
-        version: 25.9.6
       '@types/react':
         specifier: 'catalog:'
         version: 19.3.0
@@ -640,10 +645,11 @@ importers:
         version: 0.31.10
 
   scripts:
-    devDependencies:
+    dependencies:
       '@types/node':
         specifier: 'catalog:'
         version: 25.9.6
+    devDependencies:
       tsx:
         specifier: 'catalog:'
         version: 4.23.13
