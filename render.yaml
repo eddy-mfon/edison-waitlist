@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: edison-api
+    runtime: node
+    buildCommand: pnpm run build
+    startCommand: node --enable-source-maps artifacts/api-server/dist/index.mjs
+    envVars:
+      - key: NODE_ENV
+        value: production
