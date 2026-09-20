@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "hello": "tsx ./src/hello.ts",
+    "waitlist": "tsx ./src/view-waitlist.ts",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "devDependencies": {
     "tsx": "catalog:"
   },
   "dependencies": {
-    "@types/node": "catalog:"
+    "@types/node": "catalog:",
+    "pg": "^8.23.0"
   }
 }
