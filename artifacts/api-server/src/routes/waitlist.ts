@@ -23,11 +23,12 @@ router.post("/waitlist", async (req, res) => {
 
     try {
       await db.insert(waitlistTable).values({ email }).onConflictDoNothing();
-    } catch (dbError) {
+    } catch (dbError: any) {
       req.log?.error({ err: dbError }, "Database insertion failed");
       res.status(500).json({
         error: "Internal Server Error",
         message: "Failed to add to waitlist. Please try again later.",
+        detail: dbError?.message || String(dbError),
       });
       return;
     }
