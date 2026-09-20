@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Runcycle"
+description = "A cinematic landing page for Runcycle, an AI sales agent that handles sales calls for modern teams."
+version = "1.0.0"
+id = "artifacts/runcycle-site"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24019
+
+[services.development]
+run = "pnpm --filter @workspace/runcycle-site run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/runcycle-site", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/runcycle-site/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24019"
+BASE_PATH = "/"

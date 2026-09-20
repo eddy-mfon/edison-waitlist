@@ -1,0 +1,164 @@
+# Give Your AI a Brain for Your Business.
+
+Edison turns your company's scattered knowledge into AI skills that can understand your rules, follow your processes, and get work done.
+
+**Teach it once. Let it work.**
+
+[Join the Waitlist]
+
+---
+
+## Your Company Already Knows How to Work.
+
+Your best knowledge is already somewhere.
+
+In emails.
+In Slack.
+In documents.
+In support tickets.
+In databases.
+And inside the heads of your team.
+
+But AI can't use knowledge it can't understand.
+
+Edison changes that.
+
+---
+
+## Meet Edison
+
+Edison is building the knowledge layer for business AI.
+
+It takes the knowledge your company already has and turns it into structured **AI Skills** that agents can understand and use.
+
+Instead of giving your AI a blank screen and hoping it figures things out, you give it the way your company actually works.
+
+**Your knowledge becomes instructions.
+Your instructions become skills.
+Your skills power your AI.**
+
+---
+
+## Imagine Your AI Actually Knowing How Your Business Works.
+
+A customer asks for a refund.
+
+Your AI doesn't just generate a polite response.
+
+It knows:
+
+**When** a refund is allowed.
+**What** information is needed.
+**Which** rules apply.
+**When** approval is required.
+**What** action comes next.
+
+That's an Edison Skill.
+
+And refunds are only the beginning.
+
+---
+
+## The Edison MVP
+
+We're starting with one simple goal:
+
+### Turn company knowledge into AI-ready skills.
+
+The first version of Edison will help you:
+
+### Capture Knowledge
+
+Bring your company's important information into one place.
+
+Documents, processes, rules, decisions, and team knowledge.
+
+### Build AI Skills
+
+Turn that knowledge into clear, reusable instructions that AI agents can follow.
+
+### Define Rules
+
+Tell your AI what it can do, what it cannot do, and when it should involve a human.
+
+### Organize Your Knowledge
+
+Keep your company's knowledge structured instead of scattered across dozens of tools.
+
+### Give Agents Context
+
+Give your AI agents the information they need before they take action.
+
+---
+
+## From "Ask Someone" to "Let AI Handle It."
+
+Today:
+
+**Customer → Support Agent → Find Information → Understand Rules → Take Action**
+
+With Edison:
+
+**Customer → AI Agent → Edison Skill → Take Action**
+
+The goal isn't to replace your team.
+
+It's to make the knowledge your team has built usable by the AI working alongside them.
+
+---
+
+## Edison Is More Than a Knowledge Base.
+
+A knowledge base stores information.
+
+Edison is being built to turn that information into something AI can **use**.
+
+Think of it as the layer between what your company knows and what your AI can do.
+
+**Company Knowledge → Edison → AI Skills → AI Agents → Real Work**
+
+---
+
+## We're Just Getting Started.
+
+The MVP is the foundation.
+
+As Edison grows, we're building toward a system that can:
+
+* Connect to the tools your company already uses
+* Keep company knowledge up to date
+* Detect changes in processes and rules
+* Give AI agents access to live business information
+* Create and improve skills automatically
+* Help teams understand how their AI is using company knowledge
+
+The long-term vision is simple:
+
+### An AI that doesn't just know things.
+
+### An AI that knows how your company works.
+
+---
+
+## Be There From the Beginning.
+
+Edison is currently being built.
+
+We're opening the doors to our early users through the waitlist.
+
+Join early and follow the development of a new way to give AI the knowledge it needs to actually work inside a business.
+
+### Give your AI a brain.
+
+**[Join the Edison Waitlist]**
+
+No complicated setup. No sales pitch. Just early access to Edison as we build it.
+
+---
+
+## Edison
+
+**Your company's knowledge.
+Built for AI.**
+
+[Join the Waitlist]
